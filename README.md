@@ -1,6 +1,8 @@
 # etsy-shop-spy-php
 
-this tool can give you informations about products on etsy by shop name
+### this tool can give you informations about products on etsy by shop name
+
+>This is a PHP script that uses the Etsy API to retrieve information about a store and its active listings. The user is prompted to enter a store name and an API key, which are then used to make requests to the Etsy API. The script then displays the shop name, shop creation date, and a table of information about the store's active listings, including the title, images, price, quantity, views, favorites, creation date, and tags. The script also includes some error handling for when the API key is not authorized or if the store name or API key fields are left empty.
 
 HOW TO USE THIS TOOL ?
 
